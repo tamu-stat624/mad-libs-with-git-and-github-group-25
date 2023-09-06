@@ -4,9 +4,9 @@
 4. Color
 5. Month
 6. Number
-7. Apples
-8. Snails
-9. Dog
+7. Shoes
+8. Gloves
+9. Aliens
 10. Control Room
 11. Orange Juice
 12. Adjective
