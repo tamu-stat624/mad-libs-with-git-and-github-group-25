@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. Bob
+2. big
+3. tall
+4. purple
+5. April
+6. twenty
 7. Shoes
 8. Gloves
 9. Aliens
@@ -14,8 +14,8 @@
 14. Hiking
 15. Quickly
 16. 7
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+17. years
+18. jump
+19. fast
+20. bus
+21. Dhivya
